@@ -1,0 +1,7 @@
+{
+  "name": "native-chat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
